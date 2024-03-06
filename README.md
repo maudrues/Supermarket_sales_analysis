@@ -22,21 +22,37 @@ This is an Excel project that analyzes and derive sales insights for a supermark
 ## Problem statement
 ---
 
-1. Is there a balance  on how the HR is hiring?
-2. Identify the  KPIs in hiring,promotion,perfomance and turnover?
+1. Monthly,daily sales?
+2. Identify the  KPIs in sales?
 
 
 ## Skills/concepts demonstrated
 ---
 
 
-The following Power BI features were incorporated:
--	quick measures,
--	data transformation,
--	filters,
--	slicers,
--	gauge,line charts,bar charts and cards.
+The following Excel features were incorporated:
+-	Pivot tables,
+-	Slicers,
+-	Filters,
+-	VLOOKUP functions,
+-	OFFSET functions
+-	Pivot charts .
 
 
 ## Visualization
 ---
+
+
+The excel file include 4 pages
+1.	Dashboard
+2.	Input data
+3.	Master data
+4.	Analysis
+
+You can interact with the **Report** 
+
+
+## Analysis:
+---
+
+![](supermarketdashboard.png) 
