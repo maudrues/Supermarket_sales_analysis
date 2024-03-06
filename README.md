@@ -44,15 +44,17 @@ The following Excel features were incorporated:
 
 
 The excel file include 4 pages
-1.	Dashboard
-2.	Input data
-3.	Master data
-4.	Analysis
+1.	Dashboard : Interactive Dashboard with visuals.
+2.	Input data : This sheet has to be updated on regular basis to capture actual sales data.
+3.	Master data : This is the product catalog sheet,which has to be updated on the addition/deletion of the product from the list.
+4.	Analysis : This sheet includes all backend calculations done to visualize the data from the input sheet.
 
-You can interact with the **Report** 
+You can interact with the **Report** [here](https://github.com/maudrues/Supermarket_sales_analysis/blob/main/Supermarket_%20Sales_Dashboard_%20in_excel.xlsx)
 
 
 ## Analysis:
 ---
 
 ![](supermarketdashboard.png) 
+
+As we can see from the above dashboard for both years 2021 and 2022 our top product is product41 with a revenue of $22 952 from which 132 units have been sold.The most famous category of products being sold  is catergort04 which is generating revenue of  whooping $95 269.Direct sales are more popular compared to wholesaling .Customers eaqually prefer both using cash and paying online.In 2021 online payments were more popular but come 2022 it's vice versa.In 2022 the supermarket's profit increased by 3% which is the good as the business is progressing.
