@@ -21,3 +21,22 @@ This is an Excel project that analyzes and derive sales insights for a supermark
 
 ## Problem statement
 ---
+
+1. Is there a balance  on how the HR is hiring?
+2. Identify the  KPIs in hiring,promotion,perfomance and turnover?
+
+
+## Skills/concepts demonstrated
+---
+
+
+The following Power BI features were incorporated:
+-	quick measures,
+-	data transformation,
+-	filters,
+-	slicers,
+-	gauge,line charts,bar charts and cards.
+
+
+## Visualization
+---
